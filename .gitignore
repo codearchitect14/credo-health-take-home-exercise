@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+venv/
+.venv/
+node_modules/
+dist/
+.DS_Store
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+.npm-cache/
+config.bat
